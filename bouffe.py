@@ -16,6 +16,42 @@ while 1:
     os.system('clear')
 
     print(" (.Y.)")
+    print("  ) . (")
+    print("  ( Y )")
+    time.sleep(0.1)
+    os.system('clear')
+
+    print(" (.Y.)")
+    print("  ) . (")
+    print(" ( Y )")
+    time.sleep(0.1)
+    os.system('clear')
+
+    print(" (.Y.)")
+    print(" ) . (")
+    print(" ( Y )")
+    time.sleep(0.1)
+    os.system('clear')
+
+    print(" (.Y.)")
+    print(") . (")
+    print(" ( Y )")
+    time.sleep(0.1)
+    os.system('clear')
+    
+    print(" (.Y.)")
+    print(") . (")
+    print("( Y )")
+    time.sleep(0.1)
+    os.system('clear')
+    
+    print(" (.Y.)")
+    print(") . (")
+    print(" ( Y )")
+    time.sleep(0.1)
+    os.system('clear')
+    
+    print(" (.Y.)")
     print(" ) . (")
     print(" ( Y )")
     time.sleep(0.1)
