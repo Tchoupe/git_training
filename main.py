@@ -2,7 +2,7 @@ import time
 
 if __name__ == "__main__":
     for i in range(50):
-        print('Me duele la poya')
+        print('Me duele la polla')
         time.sleep(0.5)
     print('esta bien, y tu ?')
 
